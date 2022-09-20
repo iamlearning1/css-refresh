@@ -1,0 +1,14 @@
+{
+  "name": "travel-lp",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
