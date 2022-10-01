@@ -45,6 +45,7 @@
     height: 100%;
     transform: translateX(-4rem) scale(1.4);
     transition: 0.5s all;
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
 
@@ -59,6 +60,7 @@
     text-transform: uppercase;
     opacity: 0;
     transition: 0.5s all;
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
 
